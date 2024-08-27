@@ -22,12 +22,6 @@ console.log(myCollection.push("Passionfruit", "Drake", 2017));
 
 console.log(myCollection);
 
-function showCollection(collection){
-  for (let i = 0; i < myCollection.length; i++) {
-    console.log(`$`)
-    
-  }
-}
 
 
 
